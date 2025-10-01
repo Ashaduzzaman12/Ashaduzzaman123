@@ -202,18 +202,22 @@
 		
   ### Github Status
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=gotham&show_icons=true">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=gotham">
+<a href="https://github.com/Ashaduzzaman12">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=merko&border=7F3FBF&background=0D1117" alt="Ashaduzzaman12's GitHub streak" width="100%"/>
+</a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/Ashaduzzaman12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashaduzzaman12&layout=compact&langs_count=8&theme=algolia">
-  </a>
+<a href="https://github.com/Ashaduzzaman12">
+<img src="https://github-readme-stats.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=highcontrast" width="100%"/>
+</a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-  </a>
+
+<a href="https://github.com/Ashaduzzaman12">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashaduzzaman12&theme=outrun" width="100%"/>
+</a>
+<a href="https://github.com/Ashaduzzaman12"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashaduzzaman12&theme=outrun" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashaduzzaman12&theme=outrun&utcOffset=8" width="49.5%"/>
+</a>
 </p>
