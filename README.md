@@ -433,22 +433,9 @@ One of my biggest interests is combining my software-development background with
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<p align="center"> <a href="https://github.com/Ashaduzzaman12"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashaduzzaman12&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ashaduzzaman12 GitHub Stats" /> </a>
 
-<a href="https://github.com/Ashaduzzaman12">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashaduzzaman12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
-
-</a>
-
-<a href="https://github.com/Ashaduzzaman12">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashaduzzaman12&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
-
-</a>
-
-</p>
-
+<a href="https://github.com/Ashaduzzaman12"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashaduzzaman12&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Ashaduzzaman12 Top Languages" /> </a> </p>
 ---
 
 # 🔥 Contribution Streak
@@ -467,19 +454,15 @@ One of my biggest interests is combining my software-development background with
 
 # 📊 GitHub Profile Summary
 
-<p align="center">
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashaduzzaman12&theme=github_dark" width="100%" alt="GitHub Profile Details" /> </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashaduzzaman12&theme=github_dark" width="100%"/>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashaduzzaman12&theme=github_dark" width="49%" alt="Repositories per Language" />
 
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashaduzzaman12&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashaduzzaman12&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashaduzzaman12&theme=github_dark" width="49%" alt="Most Commit Language" />
 
 </p>
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashaduzzaman12&theme=github_dark" width="49%" alt="GitHub Statistics" /> </p>
 
 ---
 
