@@ -1,223 +1,410 @@
-<h1 align="center">Hi 👋, I'm S M ASHADUZZAMAN</h1>
+<h1 align="center">Hi 👋, I'm S. M. Ashaduzzaman</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science++Engineering+Student;Competitive+Programmer;Software+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/Ashaduzzaman12">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Graduate;Python+%7C+Django+Developer;Deep+Learning+Enthusiast;NLP+%7C+Large+Language+Models;Building+%26+Learning+AI+Systems" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Ashaduzzaman12">
+    <img src="https://komarev.com/ghpvc/?username=Ashaduzzaman12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/Ashaduzzaman12?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ashaduzzaman12?label=Followers&style=flat&logo=github" alt="GitHub followers"/>
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a **Computer Science & Engineering graduate** interested in building practical software and intelligent systems.
+
+My current learning and development journey is centered around:
+
+* 🐍 **Python Software Development**
+* 🌐 **Django & Backend Development**
+* 🧠 **Deep Learning**
+* 💬 **Natural Language Processing**
+* 🤖 **Large Language Models**
+* 🔬 Exploring modern AI/ML techniques
+* 💡 Turning ideas into useful software
+
+> **My goal:** Build software that is not only functional, but also intelligent.
+
+---
+
+## 🚀 What I'm Working With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+```text
+Python
+   │
+   ├── Django
+   │   └── Backend Development
+   │
+   ├── REST APIs
+   │
+   ├── Git & GitHub
+   │
+   └── Database / MySQL
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / Machine Learning
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │
+        ├── Deep Learning
+        │
+        ├── NLP
+        │
+        └── Large Language Models
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 My Tech Stack
+
+### 🐍 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+### 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,html,css,javascript" />
+</p>
+
+### 🤖 AI / ML / Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,ubuntu,vscode,pycharm,jupyter" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+---
+
+## 🧭 My Development Journey
+
+```text
+                    ┌─────────────────────┐
+                    │  Computer Science    │
+                    │   & Engineering      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Programming & DSA   │
+                    │ C / C++ / Python    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Software Development│
+                    │ Python + Django     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Machine Learning    │
+                    │ Data + Algorithms   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Deep Learning     │
+                    │ PyTorch / TensorFlow│
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       NLP           │
+                    │ Language + Models   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Large Language      │
+                    │      Models         │
+                    └─────────────────────┘
+```
+
+---
+
+## 🧠 AI Focus
+
+I'm particularly interested in the intersection of **software engineering and artificial intelligence**.
+
+<details>
+<summary><b>🔬 Deep Learning</b></summary>
+
 <br>
 
-###   🛠️ My Skills
- 
-### Programming languages
+Exploring neural-network-based approaches and practical deep-learning applications using modern ML frameworks.
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.java.com/" target="_blank">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-  
+</details>
 
-</p>
-	
-### About me
-
-<br><br>
-  
- - 👯 I’m looking forward to collaborate on python projects.
-
- -  🌱 Learning Software Development 
- -  Currently Working with Deep Learning
- - I'm Interested in Learning Anything
- - I am working on something interesting 
+<details>
+<summary><b>💬 Natural Language Processing</b></summary>
 
 <br>
 
-### Competitive Programming 
-<p align="center">
-  <a href="https://codeforces.com/profile/S.M.Ashaduzzaman"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/u/ashadfagun12/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.hackerrank.com/profile/ashadfagun121"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hackerrank" width = 60px/></a>
-	<a href=""><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	
-</p>
+Interested in computational approaches to understanding and processing human language.
 
-##  Connect with me
-<p align="center">
-	<a href="mailto:ashadfagun12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Ashaduzzaman12"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/s-m-ashaduzzaman-b51a4b318"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/sm.ashaduzzaman.77/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
+</details>
 
+<details>
+<summary><b>🤖 Large Language Models</b></summary>
 
-### Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
-### Language and Tools:
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-	 &emsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a> &emsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a> &emsp;
-</p>
-
-
-### Software & Tools
- 
- <p align="center">
-    &emsp;
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-      &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-      &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-      &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  </p>
-
-### IDEs
 <br>
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=plastic&logo=jupyter&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=plastic&logo=googlecolab&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB.svg?style=plastic&logo=xcode&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-FFFFFF.svg?style=plastic&logo=ollama&logoColor=black"></a>
-</p>
-  
-### Competitive Programming & Problem Solving
- 
-  <p align="center">
-    &emsp;
-      <a href="https://codeforces.com/profile/S.M.Ashaduzzaman"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-    &emsp;
-      <a href="https://leetcode.com/u/ashadfagun12/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-    &emsp;
-      <a href="https://www.hackerrank.com/profile/ashadfagun121"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-    &emsp;
-      <a href="https://www.codechef.com/users/ashadfagun12"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-    &emsp;
-    <a href="https://vjudge.net/user/ashadfagun"><img alt="Virtual Judge" src="https://img.shields.io/badge/virtual%20judge-%231977d2.svg?&style=plastic&logo=codeforces&logoColor=white" /></a>
 
-  </p>
-  
-### Operating Systems
-  <p align="center">
-    &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-    &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-    &emsp;
-      <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
-  </p>
-  <br> 
-  ---
-  <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+Exploring the rapidly evolving LLM ecosystem and how language models can be integrated into real-world software.
+
+</details>
+
+<details>
+<summary><b>🌐 AI + Software Engineering</b></summary>
+
+<br>
+
+One of my main interests is combining **Python/Django development with AI capabilities** to create useful applications.
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Ashaduzzaman12">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashaduzzaman12&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/Ashaduzzaman12">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashaduzzaman12&layout=compact&hide_border=true&theme=transparent" />
+  </a>
 </p>
 
-  ---
-		
-  ### Github Status
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-<a href="https://github.com/Ashaduzzaman12">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&theme=merko&border=7F3FBF&background=0D1117" alt="Ashaduzzaman12's GitHub streak" width="100%"/>
-</a>
+  <a href="https://github.com/Ashaduzzaman12">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashaduzzaman12&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+  </a>
 </p>
+
+---
+
+## 🗺️ Areas I'm Exploring
+
+```text
+Software Engineering
+████████████████████░░  Python • Django • Backend
+
+Deep Learning
+██████████████████░░░░  Neural Networks • PyTorch
+
+NLP
+████████████████░░░░░░  Language Processing • AI
+
+LLMs
+███████████████░░░░░░░  Language Models • GenAI
+
+Open Source
+████████████░░░░░░░░░░  Learning • Building • Contributing
+```
+
+> The bars represent my current areas of focus, not proficiency percentages.
+
+---
+
+## 💻 Competitive Programming
+
+Competitive programming remains part of my problem-solving journey.
+
 <p align="center">
-<a href="https://github.com/Ashaduzzaman12">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashaduzzaman12&show_icons=true&theme=highcontrast" width="100%"/>
-</a>
+  <a href="https://codeforces.com/profile/S.M.Ashaduzzaman">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/ashadfagun12/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ashadfagun121">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/ashadfagun12">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://vjudge.net/user/ashadfagun">
+    <img src="https://img.shields.io/badge/Virtual%20Judge-1977D2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashaduzzaman12&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashaduzzaman12&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashaduzzaman12&theme=github_dark" width="49%"/>
+</p>
+
+---
+
+## 🧪 Currently Learning
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🐍
+
+**Python**
+
+</td>
+<td align="center" width="25%">
+
+### 🌐
+
+**Django**
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+
+**Deep Learning**
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+
+**LLMs**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>Learn → Build → Experiment → Improve → Repeat 🔁</b>
+</p>
+
+---
+
+## 📂 Featured Work
+
+> 🚧 I'm continuously building and experimenting with software, deep learning, NLP and LLM-based ideas.
+
+<p align="center">
+  <a href="https://github.com/Ashaduzzaman12?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎%20Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<details>
+<summary><b>💡 What you'll find in my repositories</b></summary>
+
+<br>
+
+* 🐍 Python projects
+* 🌐 Django / backend development
+* 🧠 Machine & Deep Learning experiments
+* 💬 NLP projects
+* 🤖 LLM explorations
+* 💻 Problem-solving and competitive programming
+* 🔬 Experiments and learning projects
+
+</details>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashaduzzaman12/Ashaduzzaman12/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+---
+
+## 💬 Developer Philosophy
+
 <p align="center">
 
-<a href="https://github.com/Ashaduzzaman12">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashaduzzaman12&theme=outrun" width="100%"/>
-</a>
-<a href="https://github.com/Ashaduzzaman12"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashaduzzaman12&theme=outrun" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashaduzzaman12&theme=outrun&utcOffset=8" width="49.5%"/>
-</a>
+> **"Don't just learn the technology. Build something with it."**
+
+</p>
+
+<p align="center">
+  <i>Curious mind • Continuous learner • Builder at heart</i>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:ashadfagun12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ashaduzzaman12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/s-m-ashaduzzaman-b51a4b318">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/sm.ashaduzzaman.77/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, feel free to explore my repositories!
 </p>
